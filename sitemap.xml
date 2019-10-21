@@ -6,12 +6,12 @@
 		<loc>http://gmbh23.de/next.html</loc>
 	</url>
 	<url>
-		<loc>http://gmbh23.de/kalender.html</loc>
-	</url>
-	<url>
 		<loc>http://gmbh23.de/archiv.html</loc>
 	</url>
 	<url>
 		<loc>http://gmbh23.de/galerie.html</loc>
+	</url>
+	<url>
+		<loc>http://gmbh23.de/kontakt.html</loc>
 	</url>
 </urlset>
